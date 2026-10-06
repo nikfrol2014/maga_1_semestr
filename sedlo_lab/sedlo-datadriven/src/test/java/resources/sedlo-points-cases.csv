@@ -1,0 +1,5 @@
+caseName,matrix,expectedPoints
+one_by_one,"42","42,0,0,MIN_IN_ROW_MAX_IN_COL;42,0,0,MAX_IN_ROW_MIN_IN_COL"
+classic_minmax,"1 5 9;5 6 7;4 8 3","5,1,0,MIN_IN_ROW_MAX_IN_COL"
+reverse_maxmin,"1 2 5;6 7 9","5,0,2,MAX_IN_ROW_MIN_IN_COL"
+no_points,"1 2;2 1",""
